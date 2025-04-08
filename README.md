@@ -28,7 +28,7 @@ libraries. To check your Node version, run the following, and verify that Node
 $ nvm list
 
 ->     v16.13.0
-        v17.0.1
+
          system
 default -> 16 (-> v16.13.0)
 ```
